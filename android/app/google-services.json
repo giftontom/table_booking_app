@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "876247929278",
+    "firebase_url": "https://delivery-deals-d7329.firebaseio.com",
+    "project_id": "delivery-deals-d7329",
+    "storage_bucket": "delivery-deals-d7329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876247929278:android:be2cf6a8d3cc9f644ce9ef",
+        "android_client_info": {
+          "package_name": "com.app.deliverydeals.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876247929278-tcv0m1akh0usq59p41dq4fsb74uldckh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjz9W1onhUqmF9trP9xHStTPESGoBmiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876247929278-tcv0m1akh0usq59p41dq4fsb74uldckh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876247929278-8hf8ndfbl19vp5p2ufpd7ssvsqv1eohj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.deliverydeals.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876247929278:android:e59707cbf909fd954ce9ef",
+        "android_client_info": {
+          "package_name": "com.app.deliverydeals.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876247929278-tcv0m1akh0usq59p41dq4fsb74uldckh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjz9W1onhUqmF9trP9xHStTPESGoBmiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876247929278-tcv0m1akh0usq59p41dq4fsb74uldckh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876247929278-8hf8ndfbl19vp5p2ufpd7ssvsqv1eohj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.deliverydeals.store"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
